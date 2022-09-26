@@ -1,0 +1,85 @@
+[33mcommit 5cfa671a09b08e0016769875aec0af3d271f1303[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 5d728e9 3b8fe71
+Author: arule123 <arulegm12@gmail.com>
+Date:   Mon Sep 26 17:22:36 2022 +0700
+
+    telah memilih yg paling efektif
+
+[33mcommit 5d728e9c9ddb547f418048f38fc52c06914dcacf[m
+Author: arule123 <arulegm12@gmail.com>
+Date:   Mon Sep 26 17:19:14 2022 +0700
+
+    mengubah navigasi
+
+[33mcommit 3b8fe712a0b3b59b41a6b9fd530ba8c7ed1af0de[m
+Author: arule123 <arulegm12@gmail.com>
+Date:   Mon Sep 26 17:17:29 2022 +0700
+
+    mengubah keahlian
+
+[33mcommit 36e9132469bfaf47f28f416e8ff66555725fdb84[m
+Author: arule123 <arulegm12@gmail.com>
+Date:   Mon Sep 26 17:00:36 2022 +0700
+
+    ubah css
+
+[33mcommit 407addbc77e367407f9b9bcf50b9ea9c56e308f3[m
+Author: arule123 <arulegm12@gmail.com>
+Date:   Mon Sep 26 16:57:03 2022 +0700
+
+    menambahkan navigasi dan keahlian
+
+[33mcommit f45cbbdc13cecb8c64522fc188adab8789ad4e35[m
+Merge: 3e7805e 4960bd3
+Author: arule123 <arulegm12@gmail.com>
+Date:   Mon Sep 26 16:51:29 2022 +0700
+
+    Merge branch 'user' into staff
+
+[33mcommit 3e7805e49f84206f55aa17c9577d52da92c614cb[m
+Author: arule123 <arulegm12@gmail.com>
+Date:   Mon Sep 26 16:47:26 2022 +0700
+
+    menghapus keahlian
+
+[33mcommit 4960bd3e979bb427f9d6eeddbbf85fe7ada72483[m
+Author: arule123 <arulegm12@gmail.com>
+Date:   Mon Sep 26 16:44:36 2022 +0700
+
+    menghapus navigasi
+
+[33mcommit a99b940e209e67010520103d337fca826372db30[m
+Author: arule123 <arulegm12@gmail.com>
+Date:   Mon Sep 26 16:40:17 2022 +0700
+
+    staff menambahkan keahlian
+
+[33mcommit 1709031fd756c5a21ac8b26b0624f8c94c6fb2e8[m
+Author: arule123 <arulegm12@gmail.com>
+Date:   Mon Sep 26 16:27:17 2022 +0700
+
+    menghapus form skill
+
+[33mcommit 0d7b6d8197727f509c3bc65c7e1340b8956ef380[m
+Author: arule123 <arulegm12@gmail.com>
+Date:   Mon Sep 26 16:18:37 2022 +0700
+
+    menambahkan project web
+
+[33mcommit 5270728a700696a641e5f7f1d6dc62b53c54ea1c[m
+Author: arule123 <arulegm12@gmail.com>
+Date:   Mon Sep 26 15:57:25 2022 +0700
+
+    penambahan javasript
+
+[33mcommit 9b8767ad92b08e59dee19ce64089f2df658369bb[m
+Author: arule123 <arulegm12@gmail.com>
+Date:   Mon Sep 26 15:53:04 2022 +0700
+
+    menambah judul dan style css
+
+[33mcommit 3cadc85f5a67f70a6093ee0f192a628912093895[m
+Author: arule123 <arulegm12@gmail.com>
+Date:   Mon Sep 26 15:47:20 2022 +0700
+
+    Menambahkan file index.html
